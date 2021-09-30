@@ -1,4 +1,4 @@
-# GIZ-pass
+My contribute to solve problem  at competition by # GIZ-pass
 GIZ task for candidate test
 
 
